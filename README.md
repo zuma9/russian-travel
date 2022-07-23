@@ -1,23 +1,23 @@
-# Проект: Путешествие по России
+# _Проект "Путешествия по России"._
+### Одностраничный сайт с фотографиями популярных природных достопримечательностей России с кратким описанием и ссылками на официальные ресурсы или блоги с полезной информацией.
+### Проект посвящен внутреннему туризму по России, создан в рамках 3 спринта курса Веб-разработчик от Яндекс Практикум.
+### Цель работы - овладеть базовыми навыками адаптивной верстки, закрепить полученные знания и навыки на практике.
+### Стек технологий:
+##### * HTML5;
+##### * CSS3 (Flexbox, Grid Layout, Adaptive UI, Media Queries);
+##### * Методология БЭМ;
+##### * Файловая структура Nested БЭМ;
+##### * Вёрстка по макету в Figma.
+###### Выполнено Юлией Солнышкиной при содействии Яндекс Практикум (https://practicum.yandex.ru)
 
-### Обзор
-* Интро
-* Figma
-* Картинки
-
-**Интро**
-
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+# _project "Travel in Russia"._
+### One-page website with photos of popular natural attractions of Russia with a brief description and links to official resources or blogs with useful information.
+### The project is dedicated to domestic tourism in Russia, created as part of the 3rd sprint of the Web Developer course from Yandex Practicum.
+### The purpose of the work is to master the basic skills of adaptive layout, consolidate the acquired knowledge and skills in practice.
+### Technology Stack:
+##### * HTML5;
+##### * CSS3 (Flexbox, Grid Layout, Adaptive UI, Media Queries);
+##### * BEM methodology;
+##### * Nested BEM file structure;
+##### * Layout layout in Figma.
+###### Performed by Yulia Solnyshkina with the assistance of Yandex Practicum (https://practicum.yandex.ru)
