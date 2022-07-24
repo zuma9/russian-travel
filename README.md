@@ -9,7 +9,7 @@
 ##### * Файловая структура Nested БЭМ;
 ##### * Вёрстка по макету в Figma.
 ###### Выполнено Юлией Солнышкиной при содействии Яндекс Практикум (https://practicum.yandex.ru)
-#### https://zuma9.github.io/russian-travel/
+#### https://zuma9.github.io/russian-travel/index.html
 
 # _project "Travel in Russia"._
 ### One-page website with photos of popular natural attractions of Russia with a brief description and links to official resources or blogs with useful information.
@@ -22,4 +22,4 @@
 ##### * Nested BEM file structure;
 ##### * Layout layout in Figma.
 ###### Performed by Yulia Solnyshkina with the assistance of Yandex Practicum (https://practicum.yandex.ru)
-#### https://zuma9.github.io/russian-travel/
+#### https://zuma9.github.io/russian-travel/index.html
