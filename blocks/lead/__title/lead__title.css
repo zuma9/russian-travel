@@ -6,7 +6,6 @@
   text-align: center;
   color: #FFFFFF;
   max-width: 720px;
-  min-height: 200px;
   margin: 0 auto 32px;
 }
 
@@ -15,7 +14,6 @@
     font-size: 40px;
     line-height: 44px;
     min-width: 288px;
-    min-height: 88px;
   }
 }
 
